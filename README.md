@@ -176,6 +176,7 @@ The gap between OLS and RF shows that spec–price relationships are non-linear 
 - **Battery and display size** have weak positive correlation with price.
 - **Random Forest** explains ~75% of price variance from specs alone; the remaining ~25% is brand premium, launch recency, and features not captured in the spec columns.
 
+The results are presented on a dashboard: https://flipkartsmartphoneeda-5nteqcvn8ucpswoarrhehs.streamlit.app/
 ---
 
 ## Possible Extensions
